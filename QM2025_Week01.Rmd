@@ -1022,7 +1022,7 @@ Please solve all three steps in the next code chunk.
 
 ### Exercise IV: Subsetting
 
-This is a little trickier: Can you find the hottest and coldest city in Germany 2021? 
+This is a little trickier: Can you find the hottest and coldest city in Germany 2023? 
 
 Hint: The functions `min()` and `max()` help you to find the minimum and maximum values of a vector or variable. Combine that with your newly learned subsetting skills and you'll find the answer.
 
