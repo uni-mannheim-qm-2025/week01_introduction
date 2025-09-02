@@ -749,6 +749,7 @@ Instead of the position we put a condition in the [] square brackets.
 So how do conditions work? Let's create a matrix to work with
 
 ```{r cond00}
+
 vec1 <- c(1, 2, 3, 4, 5, 6)
 
 vec2 <- c(7, 8, 9, 10, 11, 12)
