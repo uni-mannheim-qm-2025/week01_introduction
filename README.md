@@ -68,7 +68,7 @@ Go to [https://github.com/uni-mannheim-qm-2025](https://github.com/uni-mannheim-
   7. Authentication (if necessary): if you get an error and the download does not start, follow instructions here: https://qm-uma.netlify.app/misc/pat-error/. 
   
 #### Get working
-  1. Open the `.Rmd` file that is stored in the project (in week 1, this is called `QM2024_Week01.Rmd`).
+  1. Open the `.Rmd` file that is stored in the project (in week 1, this is called `QM2025_Week01.Rmd`).
   2. Hit the **Run Document** button.
 
 ## The RStudio interface
